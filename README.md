@@ -2,7 +2,7 @@
 
 Here you will find what moves me.
 
-I'm currently working in a Backend System for Genesis, pushing code to Recapeps, and Writing a Paper about LLM's and their inability to grasp the truth.
+I'm currently working in a Backend System for the ANVISA (Agência Nacional de Vigilância Sanitária), creating a Goodware for exploring the limitations of windowsXP and writing my thesis in a classification for malware families based on their cluster.
 
 
 <a
