@@ -1,9 +1,8 @@
-## Hi there 👋
+## Bonjour.
 
 Here you will find what moves me.
 
-I'm currently working in a Backend System for the ANVISA (Agência Nacional de Vigilância Sanitária), creating a Goodware for exploring the limitations of windowsXP and writing my thesis in a classification for malware families based on their cluster.
-
+I'm currently persuing my Mater's thesis in Cybersecurity by [Grand École des Mines Nancy](https://mines-nancy.univ-lorraine.fr/) collaboration with the [Cyber-Detect](https://cyber-detect.com/) laboratory grouping malware based on the labels yielded by AV companies in their VT (Virus Total) Raport.
 
 <a
   id="cy-effective-orcid-url"
